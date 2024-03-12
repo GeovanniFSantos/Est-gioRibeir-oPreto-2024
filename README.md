@@ -44,3 +44,13 @@ Agora, observe a lâmpada. Se estiver acesa, você sabe que o segundo interrupto
 
 `Antes de sair da sala, desligue todos os interruptores.
 Agora, você já sabe qual interruptor controla cada lâmpada, pois você testou os interruptores individualmente e correlacionou suas ações com o estado da lâmpada na primeira ida.`
+***
+
+###  Inverta os caracteres de um string.
+
+* Nesta implementação, a função inverterString recebe uma string como entrada e itera sobre ela de trás para frente, adicionando cada caractere à string inverted.
+  * Para executar o código no terminal do seu VsCode, com o Node.js instalado na máquina, utilize os seguintes comandos:
+  * "node string.js"
+
+
+* [Concluido](#conclusão)
