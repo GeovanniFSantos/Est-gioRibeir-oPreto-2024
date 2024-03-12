@@ -29,4 +29,18 @@
 - `f) 2,10, 12, 16, 17, 18, 19,`: Vamos deduzir que o próximo número seria 20 (19 + 1). 
 ***
 
-###
+### Como descobrir qual interruptor controla cada lâmpada?
+
+<h1 align="center"> Resultado da Lógica </h1>
+
+ * 1° Primeira ida:
+
+` Ligue o primeiro interruptor e aguarde alguns minutos.
+Desligue o primeiro interruptor e ligue o segundo interruptor.
+Entre na sala.
+Agora, observe a lâmpada. Se estiver acesa, você sabe que o segundo interruptor controla essa lâmpada. Se estiver apagada, toque na lâmpada (estará fria). Isso significa que o primeiro interruptor controla a lâmpada. Se nenhuma das situações acima ocorrer, a lâmpada restante será controlada pelo terceiro interruptor. `
+
+ * 2° Segunda ida:
+
+`Antes de sair da sala, desligue todos os interruptores.
+Agora, você já sabe qual interruptor controla cada lâmpada, pois você testou os interruptores individualmente e correlacionou suas ações com o estado da lâmpada na primeira ida.`
