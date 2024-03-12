@@ -17,7 +17,16 @@
   * "node fibonacci.js"
   ***
 
+### Descubra a lógica e complete o próximo elemento:
 
+<h1 align="center"> Resultado da Lógica </h1>
 
+- `a) 1, 3, 5, 7,`: A diferença de 2 a cada número. Então, o próximo número seria 9.
+- `b) 2, 4, 8, 16, 32, 64,`: Cada número é o dobro do número anterior. Portanto, o próximo número seria 128.
+- `c) 0, 1, 4, 9, 16, 25, 36,`: O próximo número seria o quadrado de 7, que é 49.
+- `d) 4, 16, 36, 64,`: O próximo número seria o quadrado de 8, resultado 100.
+- `e) 1, 1, 2, 3, 5, 8,`: O próximo número seria a soma dos dois números anteriores (5+8), que é 13.
+- `f) 2,10, 12, 16, 17, 18, 19,`: Vamos deduzir que o próximo número seria 20 (19 + 1). 
+***
 
-
+###
